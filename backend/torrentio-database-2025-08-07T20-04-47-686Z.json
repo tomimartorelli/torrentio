@@ -1,0 +1,1241 @@
+{
+  "exportDate": "2025-08-07T20:04:47.685Z",
+  "games": [
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "8 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d3505597a7edeb68c205",
+      "title": "Assasins Creed Odyssey ",
+      "genre": "Acción",
+      "releaseYear": 2019,
+      "weight": 60,
+      "rating": null,
+      "description": "De marginado a leyenda viviente, embárcate en una odisea para descubrir los secretos de tu pasado y cambiar el destino de la antigua Grecia. Desde bosques exuberantes y vibrantes hasta islas volcánicas y ciudades bulliciosas, comienza un viaje de exploración y encuentros en un mundo devastado por la guerra y moldeado por dioses y hombres. Tus decisiones afectarán el desarrollo de tu odisea. Juega a través de múltiples finales gracias al nuevo sistema de diálogo y las decisiones que tomas.\r\n",
+      "image": "uploads\\1733350224624-assasins-creed.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Asy_p4xStbk",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "Graphics: NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d46f5597a7edeb68c226",
+      "title": "Batman Arkham Knights",
+      "genre": "Acción",
+      "releaseYear": 2017,
+      "weight": 60,
+      "rating": null,
+      "description": "Batman: Arkham Knight lleva la galardonada trilogía Arkham de Rocksteady Studios a su conclusión épica. Desarrollado exclusivamente para plataformas de nueva generación, Batman: Arkham Knight presenta la versión del Batimóvil de diseño exclusivo de Rocksteady. La muy esperada incorporación de este vehículo legendario, combinada con la aclamada jugabilidad de la serie Arkham, ofrece a los jugadores la experiencia definitiva y completa de Batman mientras recorren las calles y se elevan por el horizonte de toda Gotham City.",
+      "image": "uploads\\1733350511329-batman.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JeGAQXY2FzI",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
+        "ram": "8 GB",
+        "cpu": "Intel Core i5-2500K / AMD FX-6300"
+      },
+      "_id": "6750d5165597a7edeb68c238",
+      "title": "Red Dead Redemption",
+      "genre": "Acción",
+      "releaseYear": 2018,
+      "weight": 120,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350678035-red-dead.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d5695597a7edeb68c23c",
+      "title": "Cyber Punk 2077",
+      "genre": "Acción",
+      "releaseYear": 2020,
+      "weight": 200,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350761492-cyber-punk.jpeg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d5b65597a7edeb68c24c",
+      "title": "Ghost of Tshushima",
+      "genre": "Acción",
+      "releaseYear": 2020,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350838451-ghost-premium.jpeg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "Graphics: NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d5d75597a7edeb68c24e",
+      "title": "Spider Man",
+      "genre": "Acción",
+      "releaseYear": 2019,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350871146-spider-man.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "Graphics: NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d5f75597a7edeb68c250",
+      "title": "Dead Island 2",
+      "genre": "Acción",
+      "releaseYear": 2022,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350903703-dead island.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d6185597a7edeb68c252",
+      "title": "Armored Core",
+      "genre": "Acción",
+      "releaseYear": 2022,
+      "weight": 80,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350936656-armored-core.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d6375597a7edeb68c254",
+      "title": "Gotham Knights",
+      "genre": "Acción",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733350967439-gotham-knights.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d67b5597a7edeb68c25c",
+      "title": "Bayonetta",
+      "genre": "Acción",
+      "releaseYear": 2007,
+      "weight": 20,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351035741-bayonneta.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": " NVIDIA GeForce GTX 660",
+        "ram": "8 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d80a5597a7edeb68c26a",
+      "title": "It Takes Two",
+      "genre": "Aventura",
+      "releaseYear": 2023,
+      "weight": 20,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351434711-it-takes-two-principal_5hrf.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": " NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d8325597a7edeb68c26c",
+      "title": "Control",
+      "genre": "Aventura",
+      "releaseYear": 2020,
+      "weight": 50,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351474682-control.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d8515597a7edeb68c26e",
+      "title": "Tomb Raider",
+      "genre": "Aventura",
+      "releaseYear": 2019,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351505548-tomb-raider.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d8735597a7edeb68c270",
+      "title": "Uncharted 4",
+      "genre": "Aventura",
+      "releaseYear": 2018,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351539109-uncharted.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Asy_p4xStbk",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d88f5597a7edeb68c272",
+      "title": "Beyond Two Souls",
+      "genre": "Aventura",
+      "releaseYear": 2016,
+      "weight": 20,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351567847-beyons.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d8d55597a7edeb68c27a",
+      "title": "The Witcher 3",
+      "genre": "Aventura",
+      "releaseYear": 2008,
+      "weight": 80,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351637490-the-witcher-derecha.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750d9be5597a7edeb68c27c",
+      "title": "EA Sports FC 25 ",
+      "genre": "Deportes",
+      "releaseYear": 2024,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351870077-fc25-banner.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750d9ea5597a7edeb68c27e",
+      "title": "NFL Madden 25",
+      "genre": "Deportes",
+      "releaseYear": 2024,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351914587-madden 25.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750da165597a7edeb68c280",
+      "title": "F1 2024",
+      "genre": "Deportes",
+      "releaseYear": 2023,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351958021-f1.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": " NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750da3a5597a7edeb68c282",
+      "title": "WWE 2K 24",
+      "genre": "Deportes",
+      "releaseYear": 2023,
+      "weight": 80,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733351994428-2k-25.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750da6e5597a7edeb68c28a",
+      "title": "NBA 2K 24",
+      "genre": "Deportes",
+      "releaseYear": 2023,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352046330-nba 2k24.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": " NVIDIA GeForce GTX 660",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750dd835597a7edeb68c2a4",
+      "title": "Silent Hill 2 Remake",
+      "genre": "Horror",
+      "releaseYear": 2024,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352835254-silent-hill.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750dda85597a7edeb68c2a6",
+      "title": "Scorn",
+      "genre": "Horror",
+      "releaseYear": 2023,
+      "weight": 50,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352872157-scorn.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750ddd35597a7edeb68c2a8",
+      "title": "Residen Evil 4 ",
+      "genre": "Horror",
+      "releaseYear": 2023,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352915537-Resident-evil.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750de025597a7edeb68c2aa",
+      "title": "Alan Awake",
+      "genre": "Horror",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352962308-alan-awake.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750de1f5597a7edeb68c2ac",
+      "title": "Dead Space ",
+      "genre": "Horror",
+      "releaseYear": 2023,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733352991738-deade-space.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750de9b5597a7edeb68c2b4",
+      "title": "Baldurs Gate 3",
+      "genre": "RPG",
+      "releaseYear": 2023,
+      "weight": 120,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353115870-baldurs-gate.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://www.youtube.com/",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750deb75597a7edeb68c2b6",
+      "title": "Diablo 4",
+      "genre": "RPG",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353143580-diablo-4.png",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750dedb5597a7edeb68c2b8",
+      "title": "Final Fantasy VII",
+      "genre": "RPG",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353179045-final-fantasy.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750df015597a7edeb68c2ba",
+      "title": "Persona 5 ",
+      "genre": "RPG",
+      "releaseYear": 2020,
+      "weight": 40,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353217314-persona-5.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750df3e5597a7edeb68c2bc",
+      "title": "Starfield",
+      "genre": "RPG",
+      "releaseYear": 2020,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353278820-starfield.png",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750df615597a7edeb68c2be",
+      "title": "God of War Ragnarok",
+      "genre": "RPG",
+      "releaseYear": 2023,
+      "weight": 118,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353313351-god-of-war-izquierda.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e0575597a7edeb68c2c6",
+      "title": "Warhammer 40000",
+      "genre": "FPS",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353559121-warhammer.jpeg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e0935597a7edeb68c2ce",
+      "title": "Battelfield 2042",
+      "genre": "FPS",
+      "releaseYear": 2022,
+      "weight": 150,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353619532-battelfiedl-2024.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e0c35597a7edeb68c2d0",
+      "title": "Call of Duty 3",
+      "genre": "FPS",
+      "releaseYear": 2015,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353667543-cod-3.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e0e25597a7edeb68c2d2",
+      "title": "Doom Eternal",
+      "genre": "FPS",
+      "releaseYear": 2021,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353698470-doom.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Asy_p4xStbk",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750e1075597a7edeb68c2d4",
+      "title": "Halo Infinity",
+      "genre": "FPS",
+      "releaseYear": 2021,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353735228-halo.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e1df5597a7edeb68c2dc",
+      "title": "Dead Cells",
+      "genre": "Roguelike",
+      "releaseYear": 2016,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353951488-dead-cells.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e2005597a7edeb68c2de",
+      "title": "Hades II",
+      "genre": "Roguelike",
+      "releaseYear": 2024,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733353984616-hades-ii_sc8t.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e2225597a7edeb68c2e0",
+      "title": "Brithing of Isac",
+      "genre": "Roguelike",
+      "releaseYear": 2018,
+      "weight": 15,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354018017-isak.jpeg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e2405597a7edeb68c2e2",
+      "title": "Returnal",
+      "genre": "Roguelike",
+      "releaseYear": 2012,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354048655-returnal.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e2595597a7edeb68c2e4",
+      "title": "Skul",
+      "genre": "Roguelike",
+      "releaseYear": 2020,
+      "weight": 10,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354073776-skul.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e2745597a7edeb68c2e6",
+      "title": "Vampire Survivor",
+      "genre": "Roguelike",
+      "releaseYear": 2021,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354100170-vampire.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e3b55597a7edeb68c2f4",
+      "title": "Bloodborne",
+      "genre": "Souls",
+      "releaseYear": 2018,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354421545-bloodborne.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e3d55597a7edeb68c2f6",
+      "title": "Dark Souls II",
+      "genre": "Souls",
+      "releaseYear": 2015,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354453858-dark-souls.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e3f95597a7edeb68c2f8",
+      "title": "Elden Ring",
+      "genre": "Souls",
+      "releaseYear": 2023,
+      "weight": 100,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354489742-elder-ring.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e4135597a7edeb68c2fa",
+      "title": "Lies of P",
+      "genre": "Souls",
+      "releaseYear": 2024,
+      "weight": 70,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354515453-lies-of-p.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e42e5597a7edeb68c2fc",
+      "title": "Sekiro",
+      "genre": "Souls",
+      "releaseYear": 2020,
+      "weight": 80,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733354542842-sekiro.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e6a15597a7edeb68c304",
+      "title": "DayZ",
+      "genre": "Survival",
+      "releaseYear": 2017,
+      "weight": 50,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355282674-dayz.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e6e85597a7edeb68c306",
+      "title": "Project Zomboid",
+      "genre": "Survival",
+      "releaseYear": 2023,
+      "weight": 28,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355240183-project.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e7425597a7edeb68c315",
+      "title": "Dying Light",
+      "genre": "Survival",
+      "releaseYear": 2014,
+      "weight": 60,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355330463-dying-light.jpg",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://dd.buzzheavier.com/f/GUbCYSfB8AA",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e75f5597a7edeb68c317",
+      "title": "Rust",
+      "genre": "Survival",
+      "releaseYear": 2020,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355359000-rust.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e77a5597a7edeb68c319",
+      "title": "Sons of the Forest",
+      "genre": "Survival",
+      "releaseYear": 2023,
+      "weight": 40,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355386690-sons-of-the-forest.jpg",
+      "developer": "Ubisoft",
+      "youtubeUrl": "https://www.youtube.com/",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e7b15597a7edeb68c321",
+      "title": "Ark Survivor",
+      "genre": "Sandbox",
+      "releaseYear": 2020,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355441745-ark.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e7d75597a7edeb68c323",
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "releaseYear": 2010,
+      "weight": 40,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355479627-minecraft.png",
+      "developer": "Sony Interactive Entertainment",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/9ijwpud2aubn",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      },
+      "_id": "6750e7f65597a7edeb68c325",
+      "title": "The sims 4",
+      "genre": "Sandbox",
+      "releaseYear": 2015,
+      "weight": 50,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355510535-the-sims.jpg",
+      "developer": "Electronic Arts",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    },
+    {
+      "requirements": {
+        "gpu": "AMD Radeon R9 285, NVIDIA GeForce GTX 660 ",
+        "ram": "6 GB",
+        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz "
+      },
+      "_id": "6750e8195597a7edeb68c32d",
+      "title": "Valheim",
+      "genre": "Sandbox",
+      "releaseYear": 2022,
+      "weight": 30,
+      "rating": null,
+      "description": "Arthur Morgan y la banda Van der Linde son forajidos que huyen. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la pandilla debe robar, robar y abrirse camino a través del accidentado corazón de Estados Unidos para sobrevivir. A medida que las divisiones internas cada vez más profundas amenazan con destrozar a la pandilla, Arthur debe elegir entre sus propios ideales y la lealtad a la pandilla que lo crió. Ahora, con contenido adicional del Modo Historia y un Modo Foto con todas las funciones, Red Dead Redemption 2 también incluye acceso gratuito al mundo vivo compartido de Red Dead Online, donde los jugadores asumen una variedad de roles para forjar su propio camino único en la frontera como rastrean a criminales buscados como cazarrecompensas\r\n",
+      "image": "uploads\\1733355545434-valheim.jpg",
+      "developer": "Rockstar Games",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dw_oH5oiUSE",
+      "downloadLink": "https://buzzheavier.com/qlhbq0546no5",
+      "__v": 0
+    }
+  ],
+  "developers": [
+    {
+      "_id": "6894fb767e2f2a1b374daf58",
+      "name": "Ubisoft",
+      "founded": "1986-03-28T00:00:00.000Z",
+      "country": "Francia",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf59",
+      "name": "Electronic Arts",
+      "founded": "1982-05-27T00:00:00.000Z",
+      "country": "Estados Unidos",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5a",
+      "name": "Activision Blizzard",
+      "founded": "1979-10-01T00:00:00.000Z",
+      "country": "Estados Unidos",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5b",
+      "name": "Nintendo",
+      "founded": "1889-09-23T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5c",
+      "name": "Sony Interactive Entertainment",
+      "founded": "1993-11-16T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5d",
+      "name": "Microsoft Game Studios",
+      "founded": "2000-03-30T00:00:00.000Z",
+      "country": "Estados Unidos",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5e",
+      "name": "CD Projekt Red",
+      "founded": "2002-02-01T00:00:00.000Z",
+      "country": "Polonia",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf5f",
+      "name": "Rockstar Games",
+      "founded": "1998-12-01T00:00:00.000Z",
+      "country": "Estados Unidos",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf60",
+      "name": "Bethesda Softworks",
+      "founded": "1986-06-28T00:00:00.000Z",
+      "country": "Estados Unidos",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf61",
+      "name": "Capcom",
+      "founded": "1979-05-30T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf62",
+      "name": "Square Enix",
+      "founded": "2003-04-01T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf63",
+      "name": "Bandai Namco",
+      "founded": "2006-03-31T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf64",
+      "name": "Konami",
+      "founded": "1969-03-21T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf65",
+      "name": "Sega",
+      "founded": "1960-06-03T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    },
+    {
+      "_id": "6894fb767e2f2a1b374daf66",
+      "name": "FromSoftware",
+      "founded": "1986-11-01T00:00:00.000Z",
+      "country": "Japón",
+      "games": [],
+      "__v": 0
+    }
+  ],
+  "users": [
+    {
+      "_id": "6894bfa280dd312dc17a0b39",
+      "name": "Keke",
+      "email": "keke@gmail.com",
+      "role": "admin",
+      "createdAt": "2025-08-07T15:00:50.983Z",
+      "__v": 0
+    },
+    {
+      "_id": "6894c49470d2d72a900c377a",
+      "name": "Administrador",
+      "email": "admin@torrentio.com",
+      "role": "admin",
+      "createdAt": "2025-08-07T15:21:56.178Z",
+      "__v": 0
+    },
+    {
+      "_id": "6894edfe458e9b188fe47758",
+      "name": "ekek",
+      "email": "ekek@torrentio.com",
+      "role": "user",
+      "createdAt": "2025-08-07T18:18:38.996Z",
+      "__v": 0
+    }
+  ],
+  "stats": {
+    "totalGames": 57,
+    "totalDevelopers": 15,
+    "totalUsers": 3
+  }
+}
