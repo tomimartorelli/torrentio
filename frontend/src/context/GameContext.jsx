@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
+import { API_URL } from '../config/api.js';
 
 const GameContext = createContext();
 
@@ -17,8 +18,8 @@ export const GameProvider = ({ children }) => {
 
         // Cargar juegos y categorías en paralelo
         const [gamesResponse, categoriesResponse] = await Promise.all([
-          axios.get('http://localhost:5000/api/games'),
-          axios.get('http://localhost:5000/api/categories')
+          axios.get(`${API_URL}/api/games`),
+          axios.get(`${API_URL}/api/categories`)
         ]);
 
         setGames(gamesResponse.data);
