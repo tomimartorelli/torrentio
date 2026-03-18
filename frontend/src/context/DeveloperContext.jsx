@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
+import { API_URL } from '../config/api.js';
 
 const DeveloperContext = createContext();
 
@@ -13,7 +14,7 @@ export const DeveloperProvider = ({ children }) => {
       try {
         setLoading(true);
         setError(null);
-        const response = await axios.get('http://localhost:5000/api/developers');
+        const response = await axios.get(`${API_URL}/api/developers`);
         setDevelopers(response.data);
       } catch (error) {
         console.error('Error fetching developers:', error);
@@ -82,7 +83,7 @@ export const DeveloperProvider = ({ children }) => {
     try {
       setLoading(true);
       setError(null);
-      const response = await axios.get('http://localhost:5000/api/developers');
+      const response = await axios.get(`${API_URL}/api/developers`);
       setDevelopers(response.data);
     } catch (error) {
       console.error('Error refetching developers:', error);
