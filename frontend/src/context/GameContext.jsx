@@ -38,7 +38,7 @@ export const GameProvider = ({ children }) => {
   const addGame = async (game) => {
     try {
       setLoading(true);
-      const response = await axios.post('http://localhost:5000/api/games', game); 
+      const response = await axios.post(`${API_URL}/api/games`, game); 
       setGames((prevGames) => [...prevGames, response.data]);
       return response.data;
     } catch (error) {
@@ -53,7 +53,7 @@ export const GameProvider = ({ children }) => {
   const updateGame = async (gameId, gameData) => {
     try {
       setLoading(true);
-      const response = await axios.put(`http://localhost:5000/api/games/${gameId}`, gameData);
+      const response = await axios.put(`${API_URL}/api/games/${gameId}`, gameData);
       setGames((prevGames) => 
         prevGames.map((game) => 
           game._id === gameId ? response.data : game
@@ -72,7 +72,7 @@ export const GameProvider = ({ children }) => {
   const deleteGame = async (gameId) => {
     try {
       setLoading(true);
-      await axios.delete(`http://localhost:5000/api/games/${gameId}`);
+      await axios.delete(`${API_URL}/api/games/${gameId}`);
       setGames((prevGames) => prevGames.filter((game) => game._id !== gameId));
     } catch (error) {
       console.error('Error deleting game:', error);
@@ -87,7 +87,7 @@ export const GameProvider = ({ children }) => {
     try {
       setLoading(true);
       setError(null);
-      const response = await axios.get('http://localhost:5000/api/games');
+      const response = await axios.get(`${API_URL}/api/games`);
       setGames(response.data);
     } catch (error) {
       console.error('Error refetching games:', error);
