@@ -27,5 +27,8 @@
   "engines": {
     "node": "18.x",
     "npm": "8.x"
+  },
+  "volta": {
+    "node": "18.x"
   }
 }
