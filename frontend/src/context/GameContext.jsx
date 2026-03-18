@@ -18,7 +18,7 @@ export const GameProvider = ({ children }) => {
 
         // Cargar juegos y categorías en paralelo
         const [gamesResponse, categoriesResponse] = await Promise.all([
-          axios.get(`${API_URL}/api/games`),
+          axios.get(`${API_URL}/gameList`),
           axios.get(`${API_URL}/api/categories`)
         ]);
 
@@ -38,7 +38,7 @@ export const GameProvider = ({ children }) => {
   const addGame = async (game) => {
     try {
       setLoading(true);
-      const response = await axios.post(`${API_URL}/api/games`, game); 
+      const response = await axios.post(`${API_URL}/gameList`, game); 
       setGames((prevGames) => [...prevGames, response.data]);
       return response.data;
     } catch (error) {
@@ -53,7 +53,7 @@ export const GameProvider = ({ children }) => {
   const updateGame = async (gameId, gameData) => {
     try {
       setLoading(true);
-      const response = await axios.put(`${API_URL}/api/games/${gameId}`, gameData);
+      const response = await axios.put(`${API_URL}/gameList/${gameId}`, gameData);
       setGames((prevGames) => 
         prevGames.map((game) => 
           game._id === gameId ? response.data : game
@@ -72,7 +72,7 @@ export const GameProvider = ({ children }) => {
   const deleteGame = async (gameId) => {
     try {
       setLoading(true);
-      await axios.delete(`${API_URL}/api/games/${gameId}`);
+      await axios.delete(`${API_URL}/gameList/${gameId}`);
       setGames((prevGames) => prevGames.filter((game) => game._id !== gameId));
     } catch (error) {
       console.error('Error deleting game:', error);
@@ -87,7 +87,7 @@ export const GameProvider = ({ children }) => {
     try {
       setLoading(true);
       setError(null);
-      const response = await axios.get(`${API_URL}/api/games`);
+      const response = await axios.get(`${API_URL}/gameList`);
       setGames(response.data);
     } catch (error) {
       console.error('Error refetching games:', error);
