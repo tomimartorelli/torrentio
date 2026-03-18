@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
+import { API_URL } from '../config/api.js';
 
 export const useAppStats = () => {
   const [stats, setStats] = useState({
@@ -16,7 +17,7 @@ export const useAppStats = () => {
       setStats(prev => ({ ...prev, loading: true, error: null }));
 
       // Usar la nueva API optimizada de estadísticas
-      const response = await axios.get('http://localhost:5000/api/stats');
+      const response = await axios.get(`${API_URL}/api/stats`);
       
       if (response.data.success) {
         const statsData = response.data.data;
@@ -41,9 +42,9 @@ export const useAppStats = () => {
       // Fallback: intentar obtener datos individuales si la API de stats falla
       try {
         const [usersResponse, gamesResponse, developersResponse] = await Promise.all([
-          axios.get('http://localhost:5000/api/users').catch(() => ({ data: [] })),
-          axios.get('http://localhost:5000/api/games').catch(() => ({ data: [] })),
-          axios.get('http://localhost:5000/api/developers').catch(() => ({ data: [] }))
+          axios.get(`${API_URL}/api/users`).catch(() => ({ data: [] })),
+          axios.get(`${API_URL}/api/games`).catch(() => ({ data: [] })),
+          axios.get(`${API_URL}/api/developers`).catch(() => ({ data: [] }))
         ]);
 
         const usersCount = Array.isArray(usersResponse.data) ? usersResponse.data.length : 0;
