@@ -18,7 +18,7 @@ export const GameProvider = ({ children }) => {
 
         // Cargar juegos y categorías en paralelo
         const [gamesResponse, categoriesResponse] = await Promise.all([
-          axios.get(`${API_URL}/gameList`),
+          axios.get(`${API_URL}/api/games`),
           axios.get(`${API_URL}/api/categories`)
         ]);
 
