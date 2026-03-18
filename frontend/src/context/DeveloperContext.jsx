@@ -31,7 +31,7 @@ export const DeveloperProvider = ({ children }) => {
   const addDeveloper = async (developer) => {
     try {
       setLoading(true);
-      const response = await axios.post('http://localhost:5000/api/developers', developer);
+      const response = await axios.post(`${API_URL}/api/developers`, developer);
       setDevelopers((prevDevelopers) => [...prevDevelopers, response.data]);
       return response.data;
     } catch (error) {
@@ -47,7 +47,7 @@ export const DeveloperProvider = ({ children }) => {
   const updateDeveloper = async (developerId, developerData) => {
     try {
       setLoading(true);
-      const response = await axios.put(`http://localhost:5000/api/developers/${developerId}`, developerData);
+      const response = await axios.put(`${API_URL}/api/developers/${developerId}`, developerData);
       setDevelopers((prevDevelopers) => 
         prevDevelopers.map((developer) => 
           developer._id === developerId ? response.data : developer
@@ -67,7 +67,7 @@ export const DeveloperProvider = ({ children }) => {
   const deleteDeveloper = async (developerId) => {
     try {
       setLoading(true);
-      await axios.delete(`http://localhost:5000/api/developers/${developerId}`);
+      await axios.delete(`${API_URL}/api/developers/${developerId}`);
       setDevelopers((prevDevelopers) => prevDevelopers.filter((developer) => developer._id !== developerId));
     } catch (error) {
       console.error('Error deleting developer:', error);
